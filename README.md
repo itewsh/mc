@@ -4,4 +4,4 @@
 
 -> Submit your results on the comptetition server: http://iscsrv44.epfl.ch:8000/ (At EPFL or connected to the VPN)
 
--> Deadline: 1:15 pm
+-> Deadline: 1:30 pm (UPDATE)
